@@ -3,16 +3,16 @@
 This project is a part of the Interview progress at [Parkdepot](https://www.park-depot.com/de-de). 
 
 #### Project Status: [Completed]
-## Project Intro/Objective
+## Project Intro/Objective:
 
 The purpose of this project is conduct Data analysis and visualization
 
-### Technologies
+### Technologies:
 
 -   Python
 -   SQL
 
-### Task
+### Task:
 #### Challenge I
 - How would you define the payment rate of all offences?
 - Which additional metrics could be interesting?
