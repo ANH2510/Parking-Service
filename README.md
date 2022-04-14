@@ -30,7 +30,7 @@ owners.
 ## Table of contents:
 -   Ask Questions
 -   Assessing Data
--   Caculate payment rate
 -   Inspect Data Types
 -   Fixing Data Types
+-   Caculate payment rate
 -   Exploring with Visuals
