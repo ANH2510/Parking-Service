@@ -1,6 +1,6 @@
 # Parkdeport Case Study
 
-This project is a part of the Interview progress at [Parkdepot](https://www.park-depot.com/de-de). 
+This project is about analyzing the efficiency of parking management service which uses modern hardware and sofware for parking space optimization.
 
 #### Project Status: [Completed]
 ## Project Intro/Objective:
