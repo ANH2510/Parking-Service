@@ -1,4 +1,4 @@
-# Parkdeport Case Study
+# Parking System Case Study
 
 This project is about analyzing the efficiency of parking management service which uses modern hardware and sofware for parking space optimization.
 
